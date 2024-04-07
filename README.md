@@ -1,3 +1,3 @@
 ### I'm Dani 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danirssx)](https://github.com/danirssx/github-readme-stats)
+![](https://raw.githubusercontent.com/danirssx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
