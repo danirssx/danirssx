@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Ross</h1>
-- 📫 How to reach me **danielross5018@gmail.com**
+- 📫 How to reach me danielross5018@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/daniel-ross-09122b207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-ross-09122b207" height="30" width="40" /></a>
 <a href="https://www.behance.net/danielross8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="danielross8" height="30" width="40" /></a>
 </p>
 
